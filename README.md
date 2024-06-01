@@ -32,6 +32,8 @@ You can customize and recreate the DataBase of the project.
 
 Visual of the project;
 
+![Animation](https://github.com/oranmehmetsirin/Job/blob/main/gif.gif?raw=true)
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
